@@ -8,7 +8,7 @@ import Logo from "../../design/graphics/logo";
 import Cross from "../../design/icons/TopbarIcons/Cross";
 import BurgerIcon from "../../design/icons/TopbarIcons/BurgerIcon";
 import { useState } from "react";
-import { useMediaQuery } from "../../functions/mediaQuery";
+import { useMediaQuery } from "../../functions/useMediaQuery";
 const TopBar = () => {
   return (
     <div className="topbarContainer">

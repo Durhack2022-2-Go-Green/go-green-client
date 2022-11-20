@@ -1,6 +1,6 @@
 import "./Share.scss";
 import { useState } from "react/cjs/react.production.min";
-import { useMediaQuery } from "../../functions/mediaQuery";
+import { useMediaQuery } from "../../functions/useMediaQuery";
 import { PermMedia, Label, Room, EmojiEmotions } from "@mui/icons-material";
 import Multimedia from "../../design/icons/Share/Multimedia";
 import Location from "../../design/icons/Share/Location";

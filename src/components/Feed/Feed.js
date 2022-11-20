@@ -1,7 +1,7 @@
 import Share from "../Share/Share";
 import Post from "../Post/Post";
 import RightBar from "../RightBar/HomeRightBar/HomeRightBar";
-import { useMediaQuery } from "../../functions/mediaQuery";
+import { useMediaQuery } from "../../functions/useMediaQuery";
 import "./Feed.scss";
 
 const Feed = () => {

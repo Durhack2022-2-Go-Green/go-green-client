@@ -1,5 +1,5 @@
 import "./Login.scss";
-import { useMediaQuery } from "../../functions/mediaQuery";
+import { useMediaQuery } from "../../functions/useMediaQuery";
 
 const Login = () => {
   return (

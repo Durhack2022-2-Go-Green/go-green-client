@@ -1,7 +1,7 @@
 import Share from "../../components/Share/Share";
 import Post from "../../components/Post/Post";
 import ProfileRightBar from "../../components/RightBar/ProfileRightBar/ProfileRightBar";
-import { useMediaQuery } from "../../functions/mediaQuery";
+import { useMediaQuery } from "../../functions/useMediaQuery";
 import EditProfile from "../../design/icons/Profile/EditProfile";
 import EditProfilePhoto from "../../design/icons/Profile/EditProfilePhoto";
 import "./Profile.scss";

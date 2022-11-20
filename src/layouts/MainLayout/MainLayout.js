@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 import { useState, useEffect } from "react";
-import { useMediaQuery } from "../../functions/mediaQuery";
+import { useMediaQuery } from "../../functions/useMediaQuery";
 import "./MainLayout.scss";
 import RightBar from "../../components/RightBar/HomeRightBar/HomeRightBar";
 import LeftBar from "../../components/LeftBar/LeftBar";
